@@ -9,6 +9,6 @@ Backend with [NodeJs](https://nodejs.org/en/) and [Express](https://expressjs.co
 
 Database with [mongoDB](https://www.mongodb.com/)
 
-Front-end styling with [Materialize css](https://materializecss.com/)
+Front-end styling with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) and [Materializecss](https://materializecss.com/)
 
 ## Local development
