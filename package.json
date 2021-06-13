@@ -1,26 +1,26 @@
 {
-  "name": "electronicvoting",
+  "name": "real-time-polling-app-with-nodejs",
   "version": "1.0.0",
-  "description": "elctronic voting app",
+  "description": "Polling app with NodeJs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NobleKiwam/electronic-voting-app.git"
+    "url": "git+https://github.com/A-Kiwams/Real-time-polling-app-with-NodeJs.git"
   },
-  "author": "Alhassan Kiwam",
+  "keywords": [
+    "Polling",
+    "app",
+    "electronic",
+    "voting",
+    "e-voting"
+  ],
+  "author": "Alhassan Kiwamdeen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NobleKiwam/electronic-voting-app/issues"
+    "url": "https://github.com/A-Kiwams/Real-time-polling-app-with-NodeJs/issues"
   },
-  "homepage": "https://github.com/NobleKiwam/electronic-voting-app#readme",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "cors": "^2.8.5",
-    "express": "^4.17.1",
-    "mongoose": "^5.8.3",
-    "pusher": "^3.0.0"
-  }
+  "homepage": "https://github.com/A-Kiwams/Real-time-polling-app-with-NodeJs#readme"
 }
