@@ -7,4 +7,6 @@ Backend with [NodeJs](https://nodejs.org/en/) and [Express](https://expressjs.co
 
 [Pusher api](https://pusher.com/) for real time subscriptions
 
+Database with [mongoDB](https://www.mongodb.com/)
+
 ## Local development
