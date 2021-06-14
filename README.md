@@ -12,3 +12,11 @@ Database with [mongoDB](https://www.mongodb.com/)
 Front-end with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) [Materializecss](https://materializecss.com/) and [jQuery](https://code.jquery.com/)
 
 ## Local development
+
+Clone or download project
+
+npm i to install dependencies
+
+npm start to run project
+
+### Note: replace database and pusher credentials with yours
