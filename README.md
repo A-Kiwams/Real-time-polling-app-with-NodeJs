@@ -1,5 +1,5 @@
 # Fullstack Real Time Polling Application
-## No need to refresh the browser as results come in
+## Votting result is instantaneous: No need to refresh the browser as results come in
 
 Results displayed in a chart with [CanvasJs](https://canvasjs.com/)
 
