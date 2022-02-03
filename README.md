@@ -3,13 +3,13 @@
 
 Results displayed in a chart with [CanvasJs](https://canvasjs.com/)
 
-Backend with [NodeJs](https://nodejs.org/en/) and [Express](https://expressjs.com/) 
+Backend: [NodeJs](https://nodejs.org/en/) and [Express](https://expressjs.com/) 
 
 [Pusher api](https://pusher.com/) for real time subscriptions
 
-Database with [mongoDB](https://www.mongodb.com/)                   
+Database: [mongoDB](https://www.mongodb.com/)                   
 
-Front-end with [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) [Materializecss](https://materializecss.com/) and [jQuery](https://code.jquery.com/)
+Front-end: [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) [Materializecss](https://materializecss.com/) and [jQuery](https://code.jquery.com/)
 
 ## Local development
 
